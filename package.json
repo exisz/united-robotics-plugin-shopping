@@ -1,0 +1,1 @@
+{"name":"@united-robotics/plugin-shopping","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.mjs","check":"npm run build && npm test"},"dependencies":{"react":"19.1.1","react-dom":"19.1.1","zod":"^4.1.0"},"devDependencies":{"esbuild":"0.25.9","jsdom":"^26.1.0"}}
